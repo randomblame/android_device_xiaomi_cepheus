@@ -1,0 +1,14 @@
+[
+  {
+    "repository": "android_kernel_xiaomi_sm8150",
+    "target_path": "kernel/xiaomi/sm8150"
+  },
+  {
+    "repository": "android_packages_resources_devicesettings",
+    "target_path": "packages/resources/devicesettings"
+  },
+  {
+    "repository": "android_vendor_xiaomi_cepheus",
+    "target_path": "vendor/xiaomi/cepheus"
+  }
+]
