@@ -21,6 +21,6 @@ BUILD_FINGERPRINT := "Xiaomi/cepheus/cepheus:9/PKQ1.181121.001/9.5.30:user/relea
 PRODUCT_BUILD_PROP_OVERRIDES += \
     PRIVATE_BUILD_DESC="cepheus-user 9 PKQ1.181121.001 9.5.30 release-keys" \
     PRODUCT_NAME="cepheus" \
-    TARGET_DEVICE="cepheus"
+    PRODUCT_DEVICE="cepheus"
 
 PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
